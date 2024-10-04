@@ -1,0 +1,14 @@
+D:\C#\HeroVsMonster\bin\Debug\net8.0\HeroVsMonster.exe
+D:\C#\HeroVsMonster\bin\Debug\net8.0\HeroVsMonster.deps.json
+D:\C#\HeroVsMonster\bin\Debug\net8.0\HeroVsMonster.runtimeconfig.json
+D:\C#\HeroVsMonster\bin\Debug\net8.0\HeroVsMonster.dll
+D:\C#\HeroVsMonster\bin\Debug\net8.0\HeroVsMonster.pdb
+D:\C#\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.AssemblyInfoInputs.cache
+D:\C#\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.AssemblyInfo.cs
+D:\C#\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.csproj.CoreCompileInputs.cache
+D:\C#\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.dll
+D:\C#\HeroVsMonster\obj\Debug\net8.0\refint\HeroVsMonster.dll
+D:\C#\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.pdb
+D:\C#\HeroVsMonster\obj\Debug\net8.0\HeroVsMonster.genruntimeconfig.cache
+D:\C#\HeroVsMonster\obj\Debug\net8.0\ref\HeroVsMonster.dll
